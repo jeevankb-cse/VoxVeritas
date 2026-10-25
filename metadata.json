@@ -1,0 +1,6 @@
+{
+  "name": "VoxVeritas - Real-Time AI & Human Voice Detector",
+  "description": "Real-time acoustic deep learning voice detector to classify human vs AI synthetic speech streams with low latency, segment confidence timeline, and forensic report export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
